@@ -1,6 +1,6 @@
 function findMinAndMax(arr) {
     if (arr.length === 0) {
-        return null; // or throw an error if you prefer
+        return null; 
     }
 
     let min = arr[0];
